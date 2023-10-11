@@ -1,0 +1,1 @@
+0-hello_world=imprimer hello, world, suivi d'une nouvelle ligne à la sortie standard
