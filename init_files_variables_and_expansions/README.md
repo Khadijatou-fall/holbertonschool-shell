@@ -1,0 +1,1 @@
+script0=creer un alias
